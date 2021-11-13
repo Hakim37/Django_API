@@ -1,2 +1,2 @@
-# Django_API
-Making Django API Using django, MongoDB, django restframework to make restAPI request
+# API_for_ShoppingCart_App
+Creating REST API for Shopping Cart App in Python, Django
